@@ -27,7 +27,6 @@ $result = mysqli_query($mysqli, $sql);
             <a href="index.php">Главная</a>
             <a href="shop.php">Магазин</a>
             <a href="cart.php">Корзина</a>
-            <a href="logout.php">Выйти</a>
         </nav>
     </header>
     <main>
